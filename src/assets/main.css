@@ -1,0 +1,15 @@
+@import './base.css';
+
+:root {
+  --main-bg: #444;
+  --sec-bg: #373636;
+  --block-bg: #5c5b5b;
+  --main-text: #fff;
+  --search-text: color: rgba(255, 255, 255, 0.6);
+  --modal-bg: #706c6c;
+}
+
+body {
+  background-color: var(--main-bg);
+  color: var(--main-text);
+}
